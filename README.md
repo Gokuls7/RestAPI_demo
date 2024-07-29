@@ -27,4 +27,4 @@ $ npm start
 ```
 Click on the **Fetch Books** button to view the list of books available in the database.
 
-![image](https://github.com/user-attachments/assets/1ed64f6d-a7cd-41e1-9180-c8179adcae60)
+![image](https://github.com/user-attachments/assets/2e91e615-c0c9-4671-8d2b-f8f580088fcc)
