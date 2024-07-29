@@ -26,3 +26,5 @@ $ npm start
 # starts to run on port 3000
 ```
 Click on the **Fetch Books** button to view the list of books available in the database.
+
+![image](https://github.com/user-attachments/assets/1ed64f6d-a7cd-41e1-9180-c8179adcae60)
