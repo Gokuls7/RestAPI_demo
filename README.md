@@ -13,6 +13,11 @@ $ python -m venv .venv
 $ source .venv/Scripts/activate
 $ pip install -r requirements.txt
 
+# Proceed with the below step if you want to create a separate migration by deleting the db.sqlite3 file or else skip this step.
+# Make migrations
+$ python manage.py makemigrations
+$ python manage.py migrate
+
 # Run the python server on port 8000
 $ python manage.py runserver 8000
 ```
